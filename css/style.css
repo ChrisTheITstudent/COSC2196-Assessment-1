@@ -1,3 +1,27 @@
+header {
+  text-align: center;
+}
+main {
+  background-color: blue;
+  margin: 50px 500px;
+  padding: 5px 100px;
+}
+footer {
+  background-color: yellow;
+  text-align: left;
+  margin: 100px 500px;
+}
+/* classes for images */
+.chris {
+  text-align: center;
+}
+.protagonist {
+  text-align: center;
+}
+.pie-chart {
+  text-align: center;
+}
+/* classes for text */
 .homepage {
   background-color: purple;
 }
@@ -8,7 +32,6 @@
   background-color: white
 }
 .navigavtion-header {
-  text-align: left;
   font-size: 25px;
   color: green;
 }
@@ -28,7 +51,7 @@
   color: green;
 }
 .info-header {
-  font-size: 20px;
+  font-size: 25px;
   color: yellow;
 }
 .small-header {
@@ -37,7 +60,7 @@
   color: red;
 }
 .white-text {
-  font-size: 14px;
+  font-size: 18px;
   color: white;
 }
 .project-idea-header {
@@ -55,6 +78,9 @@
   color: black;
 }
 .black-text {
-  font-size: 14px;
+  font-size: 18px;
   color: black;
+}
+.reference-text {
+  padding: 50px 200px
 }
