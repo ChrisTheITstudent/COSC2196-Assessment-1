@@ -1,0 +1,60 @@
+.homepage {
+  background-color: purple;
+}
+.project-idea {
+  background-color: black;
+}
+.references {
+  background-color: white
+}
+.navigavtion-header {
+  text-align: left;
+  font-size: 25px;
+  color: green;
+}
+.navigavtion-links {
+  text-align: left;
+  font-size: 16px;
+  color: green;
+}
+.homepage-header {
+  text-align: center;
+  font-size: 60px;
+  color: red;
+}
+.homepage-subheader {
+  text-align: center;
+  font-size: 35px;
+  color: green;
+}
+.info-header {
+  font-size: 20px;
+  color: yellow;
+}
+.small-header {
+  text-align: center;
+  font-size: 18px;
+  color: red;
+}
+.white-text {
+  font-size: 14px;
+  color: white;
+}
+.project-idea-header {
+  text-align: center;
+  font-size: 35px;
+  color: yellow;
+}
+.project-idea-subheader {
+  font-size: 20px;
+  color: green;
+}
+.references-header {
+  text-align: center;
+  font-size: 40px;
+  color: black;
+}
+.black-text {
+  font-size: 14px;
+  color: black;
+}
