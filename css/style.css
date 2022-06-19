@@ -7,9 +7,10 @@ main {
   padding: 5px 100px;
 }
 footer {
-  background-color: yellow;
   text-align: left;
   margin: 100px 500px;
+  padding: 5px 300px;
+  border: 15px ridge brown;
 }
 /* classes for images */
 .chris {
@@ -41,6 +42,7 @@ footer {
   color: green;
 }
 .homepage-header {
+  border-bottom: 1px solid black;
   text-align: center;
   font-size: 60px;
   color: red;
@@ -48,11 +50,12 @@ footer {
 .homepage-subheader {
   text-align: center;
   font-size: 35px;
-  color: green;
+  color: lightgreen;
 }
 .info-header {
   font-size: 25px;
   color: yellow;
+  border-bottom: 5px solid grey;
 }
 .small-header {
   text-align: center;
@@ -71,6 +74,11 @@ footer {
 .project-idea-subheader {
   font-size: 20px;
   color: green;
+  border-bottom: 2px solid lightblue;
+}
+.project-text {
+  margin: 15px;
+  padding: 15px;
 }
 .references-header {
   text-align: center;
@@ -82,5 +90,7 @@ footer {
   color: black;
 }
 .reference-text {
-  padding: 50px 200px
+  padding: 50px 200px;
+  border-top: 5px solid blue;
+  border-bottom: 5px solid blue;
 }
