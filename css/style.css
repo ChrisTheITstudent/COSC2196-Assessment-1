@@ -12,6 +12,14 @@ footer {
   padding: 5px 300px;
   border: 15px ridge brown;
 }
+/* calsses for coloms */
+.coloms {
+  display: flex;
+}
+.colom {
+  padding: auto 5px;
+  text-align: center;
+}
 /* classes for images */
 .chris {
   text-align: center;
@@ -88,6 +96,8 @@ footer {
 .black-text {
   font-size: 18px;
   color: black;
+  padding: 18px auto;
+  text-align: initial;
 }
 .reference-text {
   padding: 50px 200px;
